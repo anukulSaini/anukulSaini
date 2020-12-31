@@ -20,6 +20,18 @@
 
 <br />
 
+***
+
+## 📫 How to reach me:
+<ul>
+  <li>Connect with me on <a href="https://www.linkedin.com/in/anukul-saini-538629187/">Linkedin</a></li>
+  <li>Follow me on <a href="https://www.instagram.com/anukul_saini/">Instagram</a></li>
+  <li>WhatsApp me on <a>9027174693</a></li>
+  <li>Send me an email <a href="mailto:anukulsaini2295@gmail.com">anukulsaini2295@gmail.com</a></li>
+</ul>
+
+***
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/anukulsaini/count.svg" />
