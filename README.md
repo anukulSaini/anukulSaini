@@ -1,4 +1,5 @@
 ### Hi there 👋, I'm Anukul
+<img height="200" align="right" src="https://github.com/demartini/demartini/blob/master/code.gif">
 
 A passionate self-taught web developer from India.
 
@@ -6,6 +7,10 @@ A passionate self-taught web developer from India.
 - 🌱 I’m currently learning React
 - 💬 Ask me about anything [here](https://github.com/anukulSaini/anukulSaini/issues)
 
+<br />
+<br />
+<br />
+<br />
 
 📈 My Github stats
 <p align="center">
