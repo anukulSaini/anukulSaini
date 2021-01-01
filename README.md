@@ -1,5 +1,12 @@
 ### Hi there 👋, I'm Anukul
 
+A passionate self-taught web developer from India.
+
+- 🔭 I’m currently working on Burger-builder
+- 🌱 I’m currently learning React
+- 💬 Ask me about anything [here](https://github.com/anukulSaini/anukulSaini/issues)
+
+
 📈 My Github stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anukulSaini&theme=dark&show_icons=true" alt="shwetangStats" />  <br>
