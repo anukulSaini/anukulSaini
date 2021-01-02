@@ -19,6 +19,15 @@ A passionate self-taught web developer from India.
   <img src="https://github-readme-stats.vercel.app/api?username=anukulSaini&theme=dark&show_icons=true" alt="anukulStats" />  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anukulSaini&layout=compact&theme=dark" alt="top-langs" />
 </p>
+</p>
+
+[twitter]: https://twitter.com/AnukulSaini1
+[instagram]: https://www.instagram.com/anukul_saini/
+[linkedin]: https://www.linkedin.com/in/anukul-saini-538629187/
+
+---
+
+<p>
 
 **Languages and Tools**
 
@@ -35,13 +44,14 @@ A passionate self-taught web developer from India.
 
 ***
 
-## 📫 How to reach me:
-<ul>
-  <li>Connect with me on <a href="https://www.linkedin.com/in/anukul-saini-538629187/">Linkedin</a></li>
-  <li>Follow me on <a href="https://www.instagram.com/anukul_saini/">Instagram</a></li>
-  <li>WhatsApp me on <a>9027174693</a></li>
-  <li>Send me an email <a href="mailto:anukulsaini2295@gmail.com">anukulsaini2295@gmail.com</a></li>
-</ul>
+
+    
+### Connect with me:
+
+[<img align="left" alt="anukulSaini| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" bgcolor="white" />][twitter]
+[<img align="left" alt="anukulSaini | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" bgcolor="white" />][linkedin]
+[<img align="left" alt="anukulSaini | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" bgcolor="white" />][instagram]
+</p>
 
 ***
 
