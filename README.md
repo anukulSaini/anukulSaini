@@ -44,7 +44,6 @@ A passionate self-taught web developer from India.
 
 ***
 
-
     
 ### Connect with me:
 
@@ -53,7 +52,11 @@ A passionate self-taught web developer from India.
 [<img align="left" alt="anukulSaini | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" bgcolor="white" />][instagram]
 </p>
 
+<br />
+
+
 ***
+
 
 <p align="center"> 
   Visitor count<br>
