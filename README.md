@@ -61,4 +61,6 @@ A passionate self-taught web developer from India.
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/anukulsaini/count.svg" />
+  
+  <img height="200" align="right" src="https://media.giphy.com/media/l0amJzVHIAfl7jMDos/giphy.gif">
 </p>
