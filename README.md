@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Anukul
-<img height="200" align="right" src="https://github.com/demartini/demartini/blob/master/code.gif">
+<img height="200" align="right" src="https://media.giphy.com/media/Dh9jqNm8YcGVG/giphy.gif">
 
 A passionate self-taught web developer from India.
 
