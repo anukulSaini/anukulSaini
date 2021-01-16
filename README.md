@@ -16,7 +16,7 @@ A passionate self-taught web developer from India.
 
 📈 My Github stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anukulSaini&theme=dark&show_icons=true" alt="anukulStats" />  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=anukulSaini&theme=dark&show_icons=true" alt="anukulSainiStats" />  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anukulSaini&layout=compact&theme=dark" alt="top-langs" />
 </p>
 </p>
