@@ -47,8 +47,8 @@ A passionate self-taught web developer from India.
     
 ### Connect with me:
 [<img align="left" alt="anukulSaini | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" bgcolor="white" />][instagram]
-[<img align="left" alt="anukulSaini| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" bgcolor="white" />][twitter]
 [<img align="left" alt="anukulSaini | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" bgcolor="white" />][linkedin]
+[<img align="left" alt="anukulSaini| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" bgcolor="white" />][twitter]
 
 </p>
 
