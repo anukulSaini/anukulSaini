@@ -58,7 +58,6 @@ A passionate self-taught web developer from India.
 ***
 
 
-<img height="200" align="right" src="https://media.giphy.com/media/l0amJzVHIAfl7jMDos/giphy.gif">
 
 <br />
 <br />
