@@ -3,7 +3,6 @@
 
 A passionate self-taught web developer from India.
 
-- 🔭 I’m currently working on Burger-builder
 - 🌱 I’m currently learning React
 - 💬 Ask me about anything [here](https://github.com/anukulSaini/anukulSaini/issues)
 
